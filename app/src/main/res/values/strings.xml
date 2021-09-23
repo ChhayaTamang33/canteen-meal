@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">foodorderapp</string>
+    <string name="descriptionFood">Chicken sandwich with avacado salad and tomato toppings</string>
+    <string name="orderRecieved">We have received your order and sent you confirmation email with all the details of your order.</string>
+    <string name="thankYou">Thank You</string>
+    <string name="gotomyOrder">Go To My Orders</string>
+</resources>
+
+

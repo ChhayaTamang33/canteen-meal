@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FFC6C4</color>
+    <color name="primary_varient">#FCA5BD</color>
+    <color name="secondary_color">#FFF2D8</color>
+    <color name="secondary_varient">#FCF6EB</color>
+    <color name="red">#FC0303</color>
+    <color name="green">#03FC27</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="etStrokeColor">#FCA5BD</color>
+</resources>
